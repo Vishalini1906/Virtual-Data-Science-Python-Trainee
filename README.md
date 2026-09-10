@@ -1,17 +1,83 @@
 # Virtual Data Science with Python Trainee
 
-This repository contains my work completed during the Virtual Data Science with Python Trainee program.
+This repository contains my work completed during the **Virtual Data Science with Python Trainee Program**.
 
-## Weekly Tasks
+The training covered data preprocessing, exploratory data analysis, machine learning, deep learning, and an end-to-end data science project.
 
-- **Week 1 & 2:** Data Preprocessing, Exploratory Data Analysis and Visualization
-- **Week 3:** Unsupervised Learning and K-Means Clustering
+## Weekly Projects
 
-## Tools Used
+### Week 1 & 2 – Data Preprocessing and EDA
+- Data cleaning and preprocessing
+- Missing value and duplicate handling
+- Outlier detection
+- Exploratory data analysis
+- Data visualization
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+**File:** `Week-1-2.ipynb`
 
-## Files
+### Week 3 – K-Means Clustering
+- Unsupervised learning
+- Feature scaling
+- K-Means clustering
+- Customer segmentation
+- Cluster visualization
 
-- `Week-1-2.ipynb` — Week 1 and Week 2 work
-- `Week-3.ipynb` — Week 3 clustering analysis
+**File:** `Week-3.ipynb`
+
+### Week 4 – Heart Disease Prediction
+- Supervised learning
+- Logistic Regression
+- Data preprocessing
+- Classification
+- Model evaluation
+- Confusion matrix and ROC curve
+
+**File:** `Week-4-Heart-Disease-Prediction.ipynb`
+
+### Week 5 – Handwritten Digit Classification
+- Deep learning
+- Artificial Neural Network
+- MNIST dataset
+- Data normalization
+- Model training and evaluation
+- Confusion matrix and predictions
+
+**File:** `Week-5-Deep-Learning-MNIST.ipynb`
+
+### Week 6 – Student Placement Prediction and Career Success Analysis
+- Data acquisition and preprocessing
+- Exploratory data analysis
+- Feature selection
+- Logistic Regression
+- Model evaluation
+- K-Means clustering
+- Student cluster analysis
+- Placement insights and recommendations
+
+**File:** `Week-6-Student-Placement-Capstone.ipynb`
+
+## Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- TensorFlow
+- Keras
+- Google Colab
+- Jupyter Notebook
+- Git & GitHub
+
+## Repository Structure
+
+```text
+Virtual-Data-Science-Python-Trainee/
+│
+├── README.md
+├── Week-1-2.ipynb
+├── Week-3.ipynb
+├── Week-4-Heart-Disease-Prediction.ipynb
+├── Week-5-Deep-Learning-MNIST.ipynb
+└── Week-6-Student-Placement-Capstone.ipynb
